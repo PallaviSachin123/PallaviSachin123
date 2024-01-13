@@ -7,7 +7,7 @@ class NationalSchool extends Data
 {
 	void showData()
 	{
-		System.out.println("This is the National School Data");
+		System.out.println("This   is the National School Data");
 	}
 }
 class IndianSchool extends Data
